@@ -15,7 +15,7 @@ const shipments = [
   {
     trackingNumber: "VEX-PL2026-847392615",
     company: "Vistro Express",
-    status: "In Transit",
+    status: "Departure 23 February 2026",
     location: "Warsaw, Poland",
     estimatedDelivery: "February 28, 2026"
   }

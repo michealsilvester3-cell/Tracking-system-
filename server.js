@@ -11,10 +11,15 @@ app.use(express.static("public"));
 // Sample shipment database
 const shipments = [
   {
+    const shipments = [
+  {
     trackingNumber: "VEX-PL2026-847392615",
-    status: "expected to move on 23 February 2026",
+    company: "Vistro Express",
+    status: "In Transit",
     location: "Warsaw, Poland",
     estimatedDelivery: "February 28, 2026"
+  }
+];
   },
   {
     trackingNumber: "VEX-PL2026-123456789",

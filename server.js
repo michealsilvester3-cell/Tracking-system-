@@ -24,9 +24,11 @@ Mysłowice 41 - 400",
   },
   {
     trackingNumber: "VEX-PL2026-123456789",
-    status: "Delivered",
-    location: "Mysłowice, Poland",
-    estimatedDelivery: "Delivered February 20, 2026"
+    company:  "Vistroexpress
+    status: "departs 23 February 2026",
+    location: "Mikołowska  29
+Mysłowice 41 - 400",
+    estimatedDelivery: "February 28, 2026"
   }
 ];
 

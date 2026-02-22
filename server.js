@@ -16,7 +16,8 @@ const shipments = [
     trackingNumber: "VEX-PL2026-847392615",
     company: "Vistro Express",
     status: "Departure 23 February 2026",
-    location: "Warsaw, Poland",
+    location: "Mikołowska  29
+Mysłowice 41 - 400",
     estimatedDelivery: "February 28, 2026"
   }
 ];

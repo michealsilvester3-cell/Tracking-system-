@@ -12,7 +12,7 @@ app.use(express.static("public"));
 const shipments = [
   {
     trackingNumber: "VEX-PL2026-847392615",
-    status: "In Transit",
+    status: "expected to move on 23 February 2026",
     location: "Warsaw, Poland",
     estimatedDelivery: "February 28, 2026"
   },
